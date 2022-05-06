@@ -14,12 +14,12 @@ body {
 }
 
 h1 {
-    font-size: 36px;
+    font-size: 60px;
     color: #ce973e;
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 36px;
     color: #284B63;
     font-weight: bold;
 }
@@ -32,9 +32,4 @@ h1,
 h2,
 h3 {
     text-transform: uppercase;
-}
-
-.caption {
-    margin: 0px auto 60px;
-    font-weight: bold;
 }
